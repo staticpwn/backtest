@@ -1,9 +1,0 @@
-
-import telebot
-
-API_TOKEN = '5502010427:AAERYx5toIopDtZ7y6n2kO9p7-JOOJpBCxo'
-MY_CHAT_ID = 1701669930
-bot = telebot.TeleBot(API_TOKEN)
-
-ERRORS_API_TOKEN = '6127917505:AAH5-2zt8GIFZ3L_gqikhFQlYIUa9QNqHlQ'
-error_bot = telebot.TeleBot(ERRORS_API_TOKEN)
