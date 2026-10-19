@@ -1,0 +1,10 @@
+cache/
+models/
+invalid_timestamp_trial/
+__pycache__/
+*.pkl
+*.log
+*.zip
+decisions.csv
+*_curves.csv
+*_trades.csv
